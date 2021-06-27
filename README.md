@@ -6,6 +6,8 @@ Consumindo a api de geolocalização do Windows em rust, o código é simples po
 
 Não sei se o sentimento é semelhante ao de Armstrong, mas ao executar com sucesso... arrisco em dizer que provavelmente tive a mesma sensação (ashaushukkkkkkkkkkkkkk risos risos).
 
+![plot](./image/Saida_rust_for_windows_location.png)
+
 Material de estudo:
 - https://www.youtube.com/watch?v=IxqOLScujUg&t=2103s
 - https://github.com/microsoft/windows-rs
